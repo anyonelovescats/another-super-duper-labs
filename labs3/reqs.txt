@@ -1,0 +1,5 @@
+pandas
+
+# Env deps
+ipykernel
+jupyter
